@@ -3,7 +3,7 @@ pkg install termux-tools
 clear
 printf "\e[5;34m.....................WalkerPhis....................
 
-# Coded by   : \e[5;33mBartes Dwiky
+# Coded by   : \e[5;33mRahul Andreas5
 \e[5;34m# My Team    : \e[5;33mClayHackerTeam
 \e[5;34m# Contact    : \e[5;33mclayhackerteam404@gmail.com
 
